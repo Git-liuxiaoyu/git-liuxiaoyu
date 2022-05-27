@@ -26,8 +26,8 @@
 
 <a align="center" href="">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Git-liuxiaoyu&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-liuxiaoyu&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Git-liuxiaoyu&show_icons=true&theme=dark&count_private=true" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-liuxiaoyu&theme=dark&layout=compact" alt="languages" height="165">
 </p>
 
 
