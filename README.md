@@ -22,16 +22,11 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Git-liuxiaoyu&repo=car-manager)](https://github.com/Git-liuxiaoyu/car-manager)
 
 ### 🏆 Github Status
-<a href="">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=hellokaton&column=7&theme=onedark"/>
-    </p>
-</a>
-<!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
+
 <a align="center" href="">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hellokaton&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellokaton&layout=compact&theme=tokyonight" alt="languages" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=Git-liuxiaoyu&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-liuxiaoyu&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
 
